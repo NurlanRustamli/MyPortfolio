@@ -1,0 +1,17 @@
+.contact_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.contact-socials{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+}
+.contact-socials a{
+ 
+    aspect-ratio: 1/1;
+    font-size: 1.5rem;
+}
